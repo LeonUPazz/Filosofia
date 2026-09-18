@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5245d3000aec88ce","type":"group","x":-660,"y":-760,"width":1340,"height":1080,"label":"Presocratici"},
+		{"id":"07ce03c3b2036e1e","type":"group","x":-628,"y":-640,"width":1280,"height":480,"label":"Milesi"},
+		{"id":"c0d019d9b8ddc586","type":"file","file":"Filosofi/Anassimandro/Anassimandro.md","x":-188,"y":-600,"width":400,"height":400},
+		{"id":"d49bdf65286deac2","type":"file","file":"Filosofi/Talete/Talete.md","x":-588,"y":-600,"width":400,"height":400},
+		{"id":"51da71acbef750f1","type":"file","file":"Filosofi/Anassimene/Anassimene.md","x":212,"y":-600,"width":400,"height":400},
+		{"id":"0f5929f757c6d118","type":"text","text":"[[Presocratici]]","x":-113,"y":-720,"width":250,"height":60},
+		{"id":"808a1c693ff218fc","type":"file","file":"Filosofi/Eraclito/Eraclito.md","x":-588,"y":-120,"width":400,"height":400}
+	],
+	"edges":[]
+}
