@@ -11,14 +11,10 @@
             "id": "f5262c22f48ca14a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LEGGIMI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LEGGIMI"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LEGGIMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LEGGIMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LEGGIMI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,5 +182,8 @@
     }
   },
   "active": "f5262c22f48ca14a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "LEGGIMI.md",
+    "README.md"
+  ]
 }
