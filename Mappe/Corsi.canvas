@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"461011907d0d5a19","x":-500,"y":-200,"width":400,"height":400,"type":"file","file":"Corsi/Storia della Filosofia/Storia della Filosofia I.md"},
+		{"id":"4b7d90db4658aa8d","x":-20,"y":-200,"width":400,"height":400,"type":"file","file":"Corsi/Istituzioni di Storia della Filosofia Antica/Istituzioni di Storia della Filosofia Antica.md"}
+	],
+	"edges":[]
+}
