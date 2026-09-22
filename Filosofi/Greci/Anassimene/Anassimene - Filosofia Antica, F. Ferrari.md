@@ -4,7 +4,7 @@ Filosofo: "[[Anassimene]]"
 # Contesto
 [[Scuola di Mileto]]
 # Anassimene
-A Mileto operò anche Anassimene (580-525 a.C. circa), le cui ricerche naturalistiche si collocano in continuità con quelle dei suoi predecessori. Anche per lui esiste un elemento fondamentale, ma a differenza di [[Talete]] e [[Anassimandro]], per Anassimene si tratta dell'aria o del soffio. 
+A [[Scuola di Mileto|Mileto]] operò anche Anassimene (580-525 a.C. circa), le cui ricerche naturalistiche si collocano in continuità con quelle dei suoi predecessori. Anche per lui esiste un elemento fondamentale, un [[ἀρχή]], ma a differenza di [[Talete]] e [[Anassimandro]], per Anassimene si tratta dell'aria o del soffio. 
 
 A questa conclusione egli giunse contestando come l'aria si presti meglio degli altri elementi e nelle cose composte da questi elementi:
 > l'aria differisce nelle sostanze per rarefazione e condensazione: rarefacendosi diviene fuoco, condensandosi vento, e poi nuvola, e, crescendo la condensazione, acqua e poi terra, e poi pietre, e da queste ancora altre case (DK 13 A 5)

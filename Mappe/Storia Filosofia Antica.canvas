@@ -1,12 +1,20 @@
 {
 	"nodes":[
-		{"id":"5245d3000aec88ce","type":"group","x":-660,"y":-760,"width":1340,"height":1080,"label":"Presocratici"},
+		{"id":"5245d3000aec88ce","type":"group","x":-660,"y":-760,"width":2260,"height":2280,"label":"Presocratici"},
+		{"id":"f1bde6058d200d4d","type":"group","x":-608,"y":360,"width":1640,"height":480,"label":"Pitagorici"},
 		{"id":"07ce03c3b2036e1e","type":"group","x":-628,"y":-640,"width":1280,"height":480,"label":"Milesi"},
-		{"id":"c0d019d9b8ddc586","type":"file","file":"Filosofi/Anassimandro/Anassimandro.md","x":-188,"y":-600,"width":400,"height":400},
-		{"id":"d49bdf65286deac2","type":"file","file":"Filosofi/Talete/Talete.md","x":-588,"y":-600,"width":400,"height":400},
-		{"id":"51da71acbef750f1","type":"file","file":"Filosofi/Anassimene/Anassimene.md","x":212,"y":-600,"width":400,"height":400},
-		{"id":"0f5929f757c6d118","type":"text","text":"[[Presocratici]]","x":-113,"y":-720,"width":250,"height":60},
-		{"id":"808a1c693ff218fc","type":"file","file":"Filosofi/Eraclito/Eraclito.md","x":-588,"y":-120,"width":400,"height":400}
+		{"id":"3da69bd0534ad9d1","x":-608,"y":920,"width":840,"height":460,"type":"group","label":"Eleati"},
+		{"id":"c0d019d9b8ddc586","type":"file","file":"Filosofi/Greci/Anassimandro/Anassimandro.md","x":-188,"y":-600,"width":400,"height":400},
+		{"id":"d49bdf65286deac2","type":"file","file":"Filosofi/Greci/Talete/Talete.md","x":-588,"y":-600,"width":400,"height":400},
+		{"id":"51da71acbef750f1","type":"file","file":"Filosofi/Greci/Anassimene/Anassimene.md","x":212,"y":-600,"width":400,"height":400},
+		{"id":"808a1c693ff218fc","type":"file","file":"Filosofi/Greci/Eraclito/Eraclito.md","x":-588,"y":-120,"width":400,"height":400},
+		{"id":"96b11c1b23ef949e","type":"file","file":"Filosofi/Greci/Pitagora/Pitagora.md","x":-588,"y":400,"width":400,"height":400},
+		{"id":"dab07996459c8d32","type":"file","file":"Filosofi/Greci/Filolao/Filolao.md","x":-188,"y":400,"width":400,"height":400},
+		{"id":"0f5929f757c6d118","type":"text","text":"[[Presocratici]]","x":-438,"y":-840,"width":250,"height":60},
+		{"id":"e9f0e1e4ddc64ed7","type":"file","file":"Filosofi/Greci/Alcmeone/Alcmeone.md","x":612,"y":400,"width":400,"height":400},
+		{"id":"3dbdd3a1f33e5a8f","type":"file","file":"Filosofi/Greci/Archita/Archita.md","x":212,"y":400,"width":400,"height":400},
+		{"id":"31ea26d03bfe74d5","x":-588,"y":960,"width":400,"height":400,"type":"file","file":"Filosofi/Greci/Senofane/Senofane.md"},
+		{"id":"abc01243b38d6828","x":-188,"y":960,"width":400,"height":400,"type":"file","file":"Filosofi/Greci/Parmenide/Parmenide.md"}
 	],
 	"edges":[]
 }

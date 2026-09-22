@@ -1,4 +1,6 @@
 ###### Lista categorie
-[[Presocratici]]
-[[Scuola di Mileto]]
-
+- [[Presocratici]]
+- [[Scuola di Mileto]]
+- [[Pitagorici]]
+- [[Scuola eleatica]]
+- 
