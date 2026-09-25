@@ -38,3 +38,21 @@ Ora definiamola meglio, almeno nel suo contesto antico. φιλοσοφία dal g
 
 La filosofia è legata ad alcune caratteristiche del territorio. In origine vi era tensione tra le poleis e l'impero persiano. Le poleis sono territoriali (hanno un loro territorio definito), l'impero è deterritorializzante (si espande dai suoi limiti, non ha confini). Per Deleuze e Guattari la filosofia è territoriale. 
 Hegel definiva le filosofie ellenistiche come filosofie di consolazione, in quanto ti insegnavano che nonostante tu sia suddito, sei comunque padrone di te stesso.
+
+# 23/09/2026
+Sognando, al risveglio, si crea un racconto del sogno col linguaggio, e lo stesso avviene col pensiero. Il pensiero emerge e lo ricostruiamo con le parole in forma di discorso. 
+Storicamente la filosofia cambia col cambiare delle epoche, tanto che alcuni dicono che nel medioevo non c'è filosofia, in quanto o si segue la ragione (la filosofia) o si segue la fede. 
+
+Dividiamo in generale in filosofia antica, moderna e contemporanea. 
+La società moderna inizia a segregare i folli, e nasce un rapporto nuovo con la psichiatria. Solo di recente si sono ricominciati ad ascoltare i folli, tanto che sono stati aboliti i manicomi. La filosofia è per alcuni insistenza. Per altri si dice che la filosofia coincide col suo canone, e dunque sarebbe un insieme di testi. Secondo questa definizione, dunque, la filosofia coincide con la storia della filosofia (per es. Hegel). Per Hegel dunque la filosofia più recente è la più vera, ma se così fosse basterebbe imparare soltanto l'ultima filosofia, ma così non è.
+Questa posizione va discussa, dicendo che la filosofia non è come la scienza. Nella scienza, quando emerge una nuova teoria, quella vecchia diventa obsoleta, ma in filosofia non è così. Così come non diremmo che Michelangelo è meno bravo di Van Gogh, così facciamo in filosofia, anche se la posizione è aperta.
+
+Per alcuni il tempo va inteso come eterno, nel senso che il divenire non è trasformazione, ma lo "spostamento" tra l'apparire e il non apparire. La totalità dell'apparire coincide con la totalità dell'essere, ed essendo ogni cosa se stessa non può essere diversa (l'apparire è un sottinsieme dell'essere). Il passaggio di stato da fuoco a cenere non è davvero mutamento, sono la stessa cosa in due momenti diversi.
+
+Gentile segue lo stesso filone di Hegel dicendo che Filosofia = Storia della Filosofia. Roberto Esposito ha cercato una coerenza del pensiero italiano ne "Il pensiero vivente", dicendo che in Italia c'è un'attenzione particolare sula vita in senso di vita civile e politica. La filosofia ha una storicità nel senso che il presente è il culmine della filosofia del passato, ma allora cos'è la storia?
+
+La storia è il progresso, la differenza tra futuro e presente. In questo senso non possiamo avere una visione statica del tempo, la risorsa della storia è la sorpresa. Con la storia vogliamo capire come i cambiamenti si succedono, e che le cose possono cambiare.
+E questo avviene anche con la filosofia: la filosofia del presente non è il culmine, non è eterna, definitiva, perchè la storia ci insegna che il modo di pensare cambia, e dunque anche la filosofia.
+Benedetto Croce diceva che la storia è la pietra di paragone della filosofia, nel senso che la storia ti permette di pensare altrimenti. Per Giorgio Agamben le democrazie di oggi creano leggi speciali per casi eccezionali, che sopravvivono però nella normalità (es. controlli aerei post 11/09). Croce vede quindi la storia come la differenza tra il passato e il presente.
+
+La filosofia essendo un insieme di testi può anche essere visto come un genere letterario. Harold Bloom scrive il "Canone Occidentale" dove costruisce un canone della filosofia con prevalenza europea e americana. Leopardi, da 30-40 anni, viene trattato più come filosofo che come poeta, anche i pittori potrebbero essere visti come filosofi, insomma il canone è qualcosa di aperto. Il canone esiste per pensare ancora, non tanto per identificare un punto di arrivo. Il canone ci riporta comunque alla totalità della filosofia finora "accumulata".
