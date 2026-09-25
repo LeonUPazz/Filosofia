@@ -4,6 +4,8 @@ Categorie:
   - "[[Scuola eleatica]]"
 Collegato a:
   - "[[Senofane]]"
+  - "[[Zenone]]"
+  - "[[Melisso]]"
 Concetti:
 Nascita:
 Morte:

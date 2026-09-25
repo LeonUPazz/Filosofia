@@ -11,4 +11,5 @@
 - [[Alcmeone - Filosofia Antica, F. Ferrari]]
 - [[Senofane - Filosofia Antica, F. Ferrari]]
 - [[Parmenide - Filosofia Antica, F. Ferrari]]
-- 
+- [[Zenone - Filosofia Antica, F. Ferrari]]
+- [[Melisso - Filosofia Antica, F. Ferrari]]

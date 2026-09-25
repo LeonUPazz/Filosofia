@@ -18,4 +18,8 @@ Nella prima parte del poema la dea dichiara che ci sono due vie concepibili per 
 > Giacché non potresti conoscere ciò che appunto non è, in quanto è inaccessibile, 
 > né potresti enunciarlo (DK 28 B 2)
 
-	
+Questa parte insomma consiste nell'affermazione dell'essere e la negazione del non essere (ὲστιν, οὺκ ὲστιν). La dea dice poi che l'errore dei mortali sta nel cercare di congiungere le due vie, quando queste sono in realtà alternative. Quello che non è non potrà mai essere oggetto di studio, e dunque il sapere che ne deriva è privo di contenuto. Bisogna dunque seguire la prima via e farlo con rigore.
+
+L'essere è uno, eterno, immobile e incorruttibile, ed è simile ad una sfera (in quanto perfetto). Parmenide introduce anche una componente cosmogonica, dicendo che tutto è generato da due principi opposti, luce e ombra, da cui tutto si genera. Il significato di questa parte è dibattuto, ma il più probabile è che volesse mostrare come ogni tipo di cosmogonia sia frutto di opinione e non di verità. Non si deve pensare che l'essere sia un ente metafisico, bensì è da considerarsi un'astrazione della φυσις nella sua totalità.
+
+Parmenide ebbe non poca influenza nel pensiero posteriore, avendo formulato implicitamente il principio di non contraddizione, avendo distinto nettamente l'essere dal non essere, portando alla formazione della scienza come studio del vero o dell'opinione; portando una forma di realismo logico ed epistemiologico.
