@@ -45,3 +45,8 @@ Eraclito ha poi la fama di essere oscuro per la difficoltà di comprensione dei 
 
 > Aristotele con la "μέσον" nella sua etica non si riferiva all'unità degli opposti di Eraclito, per cui non possiamo dire, correttamente, che si sia "ispirato" a lui. In Eraclito non vi sono stadi intermedi tra gli opposti. Non vi è una medietà tra luce e buio (es. il vespro), vi sono solo luce e buio, senza misura. In Aristotele invece si individua la medietà tra gli opposti, i vizi, nella virtù. E questa medeità non può neppure dirsi aritmetica in quanto diversa in casi diversi e per persone diverse (es. un povero non si potrà dire tirchio se non dà un banchetto per un'occasione, ma si potrà dirlo di un nobile; o si potrà dire che una bistecca sarà un pasto adeguato ad un atleta, ma una persona sedentaria si potrebbe dire ingorda)
 
+
+
+> Eraclito è etichettato come relativista. Non è necessariamente sbagliato, ma la sua prospettiva non è "qualsiasi opinione è corretta", vi è una realtà esterna a cui si danno diverse interpretazioni. La verità è gnoseologica, la realtà ontologica. Noi possiamo avere delle opinioni che possono essere vere rispetto al contesto ma non necessariamente rispetto alla verità. Dunque noi diciamo che è più prospettivista. 
+
+> Il soggettivismo è la verità relativa all'individuo.
