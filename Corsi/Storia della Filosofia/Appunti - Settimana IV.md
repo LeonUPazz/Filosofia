@@ -1,0 +1,7 @@
+---
+Corso: "[[Storia della Filosofia I]]"
+---
+# 12/10/2026
+Abbiamo detto la storia della filosofia inizia con Platone e con i dialoghi, dove Socrate ha il ruolo del filosofo per eccellenza. Socrate si definisce come "il dono del dio alla città". In un certo senso possiamo dire che donare crea dei legami. Il dono è anche ambiguo, può esprimere affetto (non richiede il ricambio), oppure avere fini diversi come corruzione oppure l'utile. 
+
+Nell'antichità Seneca scrive "Sui benefici", dove dice che il dono è un atto libero. Seneca scrive che le grazie che danzano in cerchio rappresentano in un certo senso il dono. L'idea del dono è piuttosto antieconomica, in quanto si tratta di un gesto libero senza ricevere nulla in cambio, o comunque meno di quanto si da. Nella nostra epoca l'idea del dono è diversa, come possiamo vedere i Marcel Mauss ne "Saggio sul dono". Qui scrive che il dono è una forma pre-economica dell'economia, nel senso che il dono vincola il ricevente a ricambiare, creando una sorta di "mercato" che viene ancora prima del baratto. Piuttosto che un gesto libero è una forma di vincolo, legame (obbligo di dare, ricevere e ricambiare). Nel saggio parla anche del potlatch, un'usanza dei nativi americani dove l'eccesso viene distrutto, ed ognuno brucia/distrugge quello che ha in eccesso. Questo viene ripreso da Bataille anni dopo per parlare dello spreco, dicendo che la società si basa più sullo spreco che sull'utile. 
